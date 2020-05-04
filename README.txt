@@ -1,3 +1,15 @@
+# Projeto de Engenharia de Software 3 (4º ADS A) 
+
+Profº Giuliano Bertoti 
+
+Equipe de alunos. 
+
+  - Barbara Eugênia Negosseki de Gontijo 
+
+# 1ª quinzena de maio
+
+____________________________________________________________________________________________________________________
+
 Aprendendo com Augmented Reality (Realidade Aumentada)
 
 Qual o objetivo do projeto?
