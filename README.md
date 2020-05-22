@@ -12,7 +12,8 @@ Com o intuito de modernizar a alfabetização, será usado a tecnologia de reali
 
 A camera de um aparelho celular irá ler códigos que irão representar uma imagem, esta que ajudará a criança a formar palavras, começando assim, o seu processo de al	fabetização.
 
----
+##### Site em progresso: https://barbaranegosseki.github.io/projeto/
+~
 Projeto criado para a matéria de Engenharia de Software III (ADS - FATEC SJC)
 Profº Giuliano Bertoti 
 São José dos Campos - 2020
