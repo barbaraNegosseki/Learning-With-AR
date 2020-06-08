@@ -1,0 +1,273 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 40152,
+            "type": "VEC3",
+            "max": [
+                -21.139299392700197,
+                3.6025099754333498,
+                -10.663800239562989
+            ],
+            "min": [
+                -22.146900177001954,
+                3.128740072250366,
+                -11.356399536132813
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 40152,
+            "type": "VEC3",
+            "max": [
+                0.9999805092811585,
+                0.9999936819076538,
+                1.0
+            ],
+            "min": [
+                -0.9999805092811585,
+                -0.999974250793457,
+                -0.9999999403953552
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 40152,
+            "type": "VEC2",
+            "max": [
+                0.9770389795303345,
+                0.9828019738197327
+            ],
+            "min": [
+                0.014279999770224095,
+                0.02123701572418213
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 240672,
+            "type": "SCALAR",
+            "max": [
+                40151
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14671,
+            "type": "VEC3",
+            "max": [
+                -21.2903995513916,
+                3.6449899673461916,
+                -10.880399703979493
+            ],
+            "min": [
+                -21.760799407958986,
+                3.1709399223327638,
+                -11.2947998046875
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14671,
+            "type": "VEC3",
+            "max": [
+                0.9999568462371826,
+                0.9999968409538269,
+                0.9999157786369324
+            ],
+            "min": [
+                -0.9999567866325378,
+                -0.9999595880508423,
+                -0.9998440742492676
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14671,
+            "type": "VEC2",
+            "max": [
+                0.7716060280799866,
+                0.98033207654953
+            ],
+            "min": [
+                0.1690019965171814,
+                0.2472829818725586
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 87552,
+            "type": "SCALAR",
+            "max": [
+                14670
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3067232,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 481824,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 481824,
+            "byteLength": 481824,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 963648,
+            "byteLength": 321216,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1284864,
+            "byteLength": 962688,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2247552,
+            "byteLength": 176052,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2423604,
+            "byteLength": 176052,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2599656,
+            "byteLength": 117368,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2717024,
+            "byteLength": 350208,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "Material.003",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "scorpione",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                },
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "input.obj",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "scorpione",
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}

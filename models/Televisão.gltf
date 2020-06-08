@@ -1,0 +1,807 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 45,
+            "type": "VEC3",
+            "max": [
+                -1.5368200540542603,
+                61.24465560913086,
+                70.25965118408203
+            ],
+            "min": [
+                -1.5368201732635499,
+                -61.044654846191409,
+                0.6917877197265625
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 45,
+            "type": "VEC3",
+            "max": [
+                -1.0,
+                1.952820793960086e-9,
+                1.7235463056763934e-9
+            ],
+            "min": [
+                -1.0,
+                -1.9450416832711427e-9,
+                -1.7235467497656032e-9
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 192,
+            "type": "SCALAR",
+            "max": [
+                44
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1283,
+            "type": "VEC3",
+            "max": [
+                5.597930908203125,
+                11.380086898803711,
+                13.380987167358399
+            ],
+            "min": [
+                0.9388236999511719,
+                -11.380086898803711,
+                2.1855201721191408
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1283,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.0001228633482242003,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 7404,
+            "type": "SCALAR",
+            "max": [
+                1282
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4093,
+            "type": "VEC3",
+            "max": [
+                0.5991148948669434,
+                61.595001220703128,
+                70.61000061035156
+            ],
+            "min": [
+                -1.2240400314331055,
+                -61.595001220703128,
+                -0.776049792766571
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4093,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.9999997615814209
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 24120,
+            "type": "SCALAR",
+            "max": [
+                4092
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4884,
+            "type": "VEC3",
+            "max": [
+                -1.029152274131775,
+                61.611968994140628,
+                70.62603759765625
+            ],
+            "min": [
+                -1.7292474508285523,
+                -61.61197280883789,
+                -0.8027845621109009
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4884,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 28416,
+            "type": "SCALAR",
+            "max": [
+                4883
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3853,
+            "type": "VEC3",
+            "max": [
+                9.807199478149414,
+                35.79961395263672,
+                6.742309093475342
+            ],
+            "min": [
+                -13.860567092895508,
+                -35.79961395263672,
+                -2.05881404876709
+            ]
+        },
+        {
+            "bufferView": 13,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3853,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                0.9991889595985413
+            ],
+            "min": [
+                -0.9969423413276672,
+                -1.0,
+                -0.9999930262565613
+            ]
+        },
+        {
+            "bufferView": 14,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 22140,
+            "type": "SCALAR",
+            "max": [
+                3852
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 15,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2121,
+            "type": "VEC3",
+            "max": [
+                9.755558013916016,
+                35.73715591430664,
+                6.800329685211182
+            ],
+            "min": [
+                -13.803946495056153,
+                -35.73715591430664,
+                -2.441391706466675
+            ]
+        },
+        {
+            "bufferView": 16,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2121,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.999742329120636,
+                0.012394650839269162
+            ],
+            "min": [
+                -1.0,
+                -0.9997423887252808,
+                -0.9999996423721314
+            ]
+        },
+        {
+            "bufferView": 17,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 11976,
+            "type": "SCALAR",
+            "max": [
+                2120
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 767688,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 540,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 540,
+            "byteLength": 540,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1080,
+            "byteLength": 768,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1848,
+            "byteLength": 15396,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 17244,
+            "byteLength": 15396,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 32640,
+            "byteLength": 29616,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 62256,
+            "byteLength": 49116,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 111372,
+            "byteLength": 49116,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 160488,
+            "byteLength": 96480,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 256968,
+            "byteLength": 58608,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 315576,
+            "byteLength": 58608,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 374184,
+            "byteLength": 113664,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 487848,
+            "byteLength": 46236,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 534084,
+            "byteLength": 46236,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 580320,
+            "byteLength": 88560,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 668880,
+            "byteLength": 25452,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 694332,
+            "byteLength": 25452,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 719784,
+            "byteLength": 47904,
+            "target": 34963
+        }
+    ],
+    "images": [
+        {
+            "uri": "3ds max 2015 standard\\Frame_diffuse.jpg"
+        }
+    ],
+    "materials": [
+        {
+            "name": "LCD",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.011764707043766976,
+                    0.011764707043766976,
+                    0.011764707043766976,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.959750771522522
+            }
+        },
+        {
+            "name": "Glossy Dark Grey",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.03529411926865578,
+                    0.03529411926865578,
+                    0.03529411926865578,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9430789947509766
+            }
+        },
+        {
+            "name": "Frame",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "baseColorFactor": [
+                    0.5879999995231628,
+                    0.5879999995231628,
+                    0.5879999995231628,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.8390030860900879
+            }
+        },
+        {
+            "name": "Chrome",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.07058823853731156,
+                    0.07058823853731156,
+                    0.07058823853731156,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6170827150344849
+            }
+        },
+        {
+            "name": "Base",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.007843137718737126,
+                    0.007843137718737126,
+                    0.007843137718737126,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.959750771522522
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "LCD Screen",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Stand Mount",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 3,
+                        "NORMAL": 4
+                    }
+                }
+            ]
+        },
+        {
+            "name": "TV Backing",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 8,
+                    "attributes": {
+                        "POSITION": 6,
+                        "NORMAL": 7
+                    }
+                }
+            ]
+        },
+        {
+            "name": "TV Bezel",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 9,
+                        "NORMAL": 10
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Stand Chrome",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 3,
+                    "indices": 14,
+                    "attributes": {
+                        "POSITION": 12,
+                        "NORMAL": 13
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Stand Base",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 4,
+                    "indices": 17,
+                    "attributes": {
+                        "POSITION": 15,
+                        "NORMAL": 16
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Samsung_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                39.54441452026367,
+                -0.0,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "Samsung_$AssimpFbx$_PreRotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "Samsung_$AssimpFbx$_Rotation",
+            "matrix": [
+                -4.371138828673793e-8,
+                1.0,
+                0.0,
+                0.0,
+                -1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "Samsung",
+            "children": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "name": "LCD Screen",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.2934250831604005,
+                0.004467010498046875,
+                -31.112096786499025,
+                1.0
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "Stand Mount",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.8375232219696046,
+                0.004467075690627098,
+                -32.59988784790039,
+                1.0
+            ],
+            "mesh": 1
+        },
+        {
+            "name": "TV Backing",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.2934250831604005,
+                0.0,
+                -31.112096786499025,
+                1.0
+            ],
+            "mesh": 2
+        },
+        {
+            "name": "TV Bezel",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.2934250831604005,
+                0.0,
+                -31.112096786499025,
+                1.0
+            ],
+            "mesh": 3
+        },
+        {
+            "name": "Stand Chrome",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                1.066831111907959,
+                0.004467010498046875,
+                -36.9668083190918,
+                1.0
+            ],
+            "mesh": 4
+        },
+        {
+            "name": "Stand Base",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                1.066831111907959,
+                0.004467010498046875,
+                -36.9668083190918,
+                1.0
+            ],
+            "mesh": 5
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0,
+            "sampler": 0
+        }
+    ],
+    "scene": 0
+}
