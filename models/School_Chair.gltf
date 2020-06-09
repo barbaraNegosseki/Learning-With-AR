@@ -26,7 +26,7 @@
                 0,
                 0
             ],
-            "name" : "Cadeira",
+            "name" : "School_Chair_Dirt",
             "normalTexture" : {
                 "index" : 0,
                 "texCoord" : 0
@@ -45,7 +45,7 @@
     ],
     "meshes" : [
         {
-            "name" : "Cadeira",
+            "name" : "School_Chair",
             "primitives" : [
                 {
                     "attributes" : {
@@ -75,17 +75,17 @@
         {
             "mimeType" : "image/png",
             "name" : "SchoolChair_Normal",
-            "uri" : "Clean_texture/SchoolChair_Normal.png"
+            "uri" : "Dirty_texture/SchoolChair_Normal.png"
         },
         {
             "mimeType" : "image/png",
             "name" : "SchoolChair_Albedo",
-            "uri" : "Clean_texture/SchoolChair_Albedo.png"
+            "uri" : "Dirty_texture/SchoolChair_Albedo.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "SchoolChair_Metallic-SchoolChair_Roughness",
-            "uri" : "Clean_texture/SchoolChair_Metallic-SchoolChair_Roughness.png"
+            "name" : "SchoolChair_Metallic.png-SchoolChair_Roughness.png",
+            "uri" : "Dirty_texture/SchoolChair_Metallic_png-SchoolChair_Roughness_png.png"
         }
     ],
     "accessors" : [
@@ -160,7 +160,7 @@
     "buffers" : [
         {
             "byteLength" : 61488,
-            "uri" : "Cadeira.bin"
+            "uri" : "School_Chair.bin"
         }
     ]
 }
