@@ -1,0 +1,68 @@
+<!doctype HTML>
+<html>
+<script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+<script src="https://raw.githack.com/jeromeetienne/AR.js/1.7.5/aframe/build/aframe-ar.js"></script>
+  <body style='margin : 0px; overflow: hidden;'>
+
+
+<a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;">
+      <!-- U -->
+      <a-marker preset="pattern"
+          type="pattern"
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-U.patt">
+            <a-entity
+          gltf-model="url(https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/models/letter-u.gltf)"
+          position="1 1 0"
+          scale="0.1 0.1 0.1"
+          rotation="-90 0 0"
+        >
+        </a-entity>
+    	</a-marker>
+
+      <!-- R -->
+      <a-marker preset="pattern"
+          type="pattern"
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-R.patt">
+            <a-entity
+          gltf-model="url(https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/models/letter-r.gltf)"
+          position="1 1 0"
+          scale="0.1 0.1 0.1"
+          rotation="-90 0 0"
+        >
+        </a-entity>
+    	</a-marker>
+
+      <!-- S -->
+      <a-marker preset="pattern"
+          type="pattern"
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-S.patt">
+            <a-entity
+          gltf-model="url(https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/models/letter-s.gltf)"
+          position="1 1 0"
+          scale="0.1 0.1 0.1"
+          rotation="-90 0 0"
+        >
+        </a-entity>
+    	</a-marker>
+
+      <!-- O -->
+      <a-marker preset="pattern"
+          type="pattern"
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-O.patt">
+            <a-entity
+          gltf-model="url(https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/models/letter-o.gltf)"
+          position="1 1 0"
+          scale="0.1 0.1 0.1"
+          rotation="-90 0 0"
+        >
+        </a-entity>
+    	</a-marker>
+
+    	<a-entity camera></a-entity>
+
+      <a-entity run></a-entity>
+
+    </a-scene>
+
+  </body>
+</html>
