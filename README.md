@@ -12,7 +12,7 @@ Com o intuito de modernizar a alfabetização, será usado a tecnologia de reali
 
 Serão disponibilizados para uma criança uma série de marcadores com diversos animais, além de outros marcadores que terão as letras do alfabeto. O objetivo da criança é conseguir formar a palavra que representa o nome do animal para que ela possa ver o modelo 3D desse animal aparecer na tela conforme a imagem de exemplo abaixo.
 
-![alt text](<https://imgur.com/a/WoKH2mv>)
+![Exemplo](urso.png)
 
 ##### Site em progresso: https://barbaranegosseki.github.io/projeto/
 ~
