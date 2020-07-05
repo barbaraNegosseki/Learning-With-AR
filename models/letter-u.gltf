@@ -83,16 +83,16 @@
     {
       "alphaMode": "OPAQUE",
       "doubleSided": true,
-      "name": "gold",
+      "name": "wire_255255255",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          1.0000,
-          0.766,
-          1.336,
+          1.0,
+          1.0,
+          1.0,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 1.0
+        "roughnessFactor": 0.9068708298809346
       }
     }
   ],
@@ -106,7 +106,7 @@
             "NORMAL": 2
           },
           "indices": 0,
-          "material": 1,
+          "material": 0,
           "mode": 4
         }
       ]
