@@ -4,16 +4,24 @@
 <script src="https://raw.githack.com/jeromeetienne/AR.js/1.7.5/aframe/build/aframe-ar.js"></script>
   <body style='margin : 0px; overflow: hidden;'>
 
+    <script>
+    if ( markerVisible["patt-u"])
+    {
+      markers["patt-bear"].disabled = true;
+    }
+
+    </script>
+
 
 <a-scene embedded vr-mode-ui="enabled: false;" arjs="debugUIEnabled: false; detectionMode: mono_and_matrix; matrixCodeType: 3x3;">
       <!-- U -->
       <a-marker preset="pattern"
           type="pattern"
-          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-U.patt">
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-U.patt" id="patt-u">
             <a-entity
           gltf-model="url(https://raw.githubusercontent.com/yasminaraujoarantes/EngenhariaSoftwareIII/master/Models/UU.gltf)"
-          position="1 1 0"
-          scale="0.1 0.1 0.1"
+          position="0 0 0"
+          scale="0.05 0.05 0.05"
           rotation="-90 0 0"
         >
         </a-entity>
@@ -22,7 +30,7 @@
       <!-- R -->
       <a-marker preset="pattern"
           type="pattern"
-          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-R.patt">
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-R.patt" id="patt-r">
             <a-entity
           gltf-model="url(https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/models/letter-r.gltf)"
           position="0 0 0"
@@ -61,7 +69,7 @@
       <!-- URSO -->
       <a-marker preset="pattern"
           type="pattern"
-          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-teddy-bear.patt">
+          url="https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/markers/patt/pattern-teddy-bear.patt" id="patt-bear">
             <a-entity
           gltf-model="url(https://raw.githubusercontent.com/barbaraNegosseki/Learning-With-AR/master/models/scene.gltf)"
           position="1 1 3"
